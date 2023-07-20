@@ -1,4 +1,3 @@
-### Riaan Kleinhans
 #### Project Manager, Tech Lead CNCF TAG Contributor Strategy
 Working on Open Source, Mainly with the CNCF and Kubernetes communities
 
@@ -12,6 +11,4 @@ Working on Open Source, Mainly with the CNCF and Kubernetes communities
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=riaankl&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/riaankl)  
-
-![Profile views](https://gpvc.arturio.dev/riaankl)  
+![GitHub metrics](https://metrics.lecoq.io/riaankl) 
