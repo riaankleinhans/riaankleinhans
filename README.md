@@ -6,6 +6,7 @@ Working on Open Source, Mainly with the CNCF and Kubernetes communities
 - 🔭 I’m currently working on Kubernetes and CNCF Community work 
 - 💬 Ask me about Getting started in [Open Source](https://contribute.cncf.io/contributors/getting-started/)
 - See how [Roadmaps](https://www.cncf.io/blog/2023/09/14/navigating-success-the-power-of-roadmaps-in-open-source-projects/) can work for your project.
+- Learn about [SIG Architecture: Conformance](https://www.kubernetes.dev/blog/2023/10/05/sig-architecture-conformance-spotlight-2023/) work we have done.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/riaankl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/riaankleinhans//)  
