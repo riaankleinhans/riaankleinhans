@@ -1,4 +1,4 @@
-#### Project Manager, Tech Lead CNCF TAG Contributor Strategy
+#### Technical Program Manager, Tech Lead CNCF TAG Contributor Strategy
 Working on Open Source, Mainly with the CNCF and Kubernetes communities
 
 **Skills:** Cat herder, Chop wood, Carry Water, Make a camp fire
