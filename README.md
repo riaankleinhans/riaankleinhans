@@ -14,3 +14,5 @@ Working on Open Source, Mainly with the CNCF and Kubernetes communities
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=riaankl&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/riaankl) 
+
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/Riaankl/riaankl/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/Riaankl/riaankl)
