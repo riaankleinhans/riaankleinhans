@@ -5,7 +5,7 @@ Working on Open Source, Mainly with the CNCF and Kubernetes communities
 
 - 🔭 I have worked on [Kubernetes](https://contribcard.clotributor.dev/riaankleinhans)
 - My story of getting started in [Open Source](https://www.cncf.io/blog/2023/03/23/getting-started-in-open-source/)
-- 💬 Ask me how you cab get started in [Open Source](https://contribute.cncf.io/contributors/getting-started/)
+- 💬 Ask me how you can get started in [Open Source](https://contribute.cncf.io/contributors/getting-started/)
 - See how [Roadmaps](https://www.cncf.io/blog/2023/09/14/navigating-success-the-power-of-roadmaps-in-open-source-projects/) can work for your project.
 - Learn about [SIG Architecture: Conformance](https://www.kubernetes.dev/blog/2023/10/05/sig-architecture-conformance-spotlight-2023/) work we have done.
 - Learn how to [Build Your Contributor Base](https://www.youtube.com/watch?v=o2YCy9ntcdI)  Kubecon Paris 2024
