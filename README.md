@@ -1,7 +1,7 @@
-#### Technical Program Manager, Tech Lead CNCF TAG Contributor Strategy
-Working on Open Source, Mainly with the CNCF and Kubernetes communities
+#### Sernior Technical Program Manager at Cloud Native Computing Foundation
 
-**Skills:** Cat herder, Chop wood, Carry Water, Make a camp fire
+
+**Skills:** Cat herder, Chop wood, Carry Water
 
 - 🔭 I have worked on [Kubernetes](https://contribcard.clotributor.dev/riaankleinhans)
 - My story of getting started in [Open Source](https://www.cncf.io/blog/2023/03/23/getting-started-in-open-source/)
@@ -12,9 +12,3 @@ Working on Open Source, Mainly with the CNCF and Kubernetes communities
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/riaankleinhans)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/riaankleinhans//)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=riaankleinhans&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/riaankleinhans) 
-
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/Riaankleinhans/riaankleinhans/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/Riaankleinhans/riaankleinhans)
